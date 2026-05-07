@@ -201,7 +201,7 @@ import './tailwindcss.css'
 
 ---
 
-## 9. Vite 别名配置
+## 9. Vite ./src 路径 别名配置
 
 `vite.config.js` 示例：
 
