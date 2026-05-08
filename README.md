@@ -260,3 +260,10 @@ npm install axios
 ```
 
 Axios 直接在组件里导入使用即可，无需在 `main.js` 全局配置。
+
+## 12. 前端项目改名字需要重新运行
+```bash
+npm install
+npm run dev
+```
+
